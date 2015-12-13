@@ -2,6 +2,7 @@ name: SoloPiano
 favicon: null
 layout_spectrum: 0.55926
 typography_spectrum: 0.62566
+title: SoloPiano.com
 cta:
   domain: null
   bucket: null
