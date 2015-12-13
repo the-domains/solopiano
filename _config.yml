@@ -1,0 +1,28 @@
+name: SoloPiano
+favicon: null
+layout_spectrum: 0.5554494981188327
+typography_spectrum: 0.6332928035408258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.18121539987623692
+  lightness: 0.4886577764991671
+  saturation: 0.10558504448272288
+  rhythmicContrast: 0.31849210732616484
+purpose: []
